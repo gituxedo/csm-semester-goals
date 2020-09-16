@@ -4,9 +4,12 @@
   1. Use Zoom -- popping between breakout rooms, pairing students up, screenshare with annotations, writing on tablet or setting up document cam
   2. Field student questions, including gauging the ``vibe'' of a room online and responding appropriately
   3. SMs observe JMs teaching at least twice throughout the semester -- this includes teaching demos during family meetings or shadowing or SMs watching recordings of class
+  4. Cover how to teach problem solving as well as how to teach specific problems.
 - ### Interactive Worksheet Goals
   1. Content development -- should they be different from the worksheet? What's the approximate difficulty? Do we want to parse student answers for numerical questions? If so, do we want to randomize any numbers in questions offered + how to calculate the correct answer?
   2. (for now, I think practice.eecs.berkeley.edu is good enough of a UI to imitate. Not sure how to proceed before the above questions are answered -Sylvia)
+  3. Develop a directed graph of paths through the solution.
+  3.a Develop ways for us to review different directions people take to make 
 - ### MT1 Review Session
   1. Lecture style, or barrage of practice problems?
       - Do not want to step on the toes of other SMs if they're making a mock midterm
